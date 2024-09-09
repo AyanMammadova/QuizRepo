@@ -6,6 +6,11 @@ Welcome to Quiz Website, an interactive quiz website designed to test your knowl
 
 ![quizscreenshot](https://github.com/user-attachments/assets/4cecbf18-4b80-443b-9ad2-a35cd217468c)
 
+![quiz2](https://github.com/user-attachments/assets/70e94def-3056-4905-b2cc-2a4a82157cea)
+
+![quiz3](https://github.com/user-attachments/assets/59027962-0d6d-4339-9caf-d5125aabff0e)
+
+
 
 Here’s your **Features** section rewritten in the desired format:
 
