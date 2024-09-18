@@ -26,5 +26,5 @@ Here’s your **Features** section rewritten in the desired format:
 
 ## Deployment
 
-The website is deployed and accessible at https://ayanmammadova.github.io/QuizRepo/
+The website is deployed and accessible at https://quiz-repo-eight.vercel.app/
 
